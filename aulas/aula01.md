@@ -1,4 +1,4 @@
-#Dicas do terminal
+# Dicas do terminal
 Vou listar alguns comandos que estou aprendendo
 
 - `cd` (navega entre pastas)
@@ -20,7 +20,7 @@ Exemplo de como criar uma pasta
 mkdir nomeDaPasta
 ```
 
-#Dicas do Git
+# Dicas do Git
 
 - `git init` (começar a seguir as pastas e arquivos de um projeto)
 
