@@ -60,3 +60,5 @@ git commit -m "Anotações go git até o commit""
 Com esse comando conseguimos ver todos os commit`s que já fizemos na vida do repo que você estiver. 
 
 
+
+
